@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: faac
+Implementation-Version: 0.0.1
+Built-By: alessandro.davide
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/faac/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
